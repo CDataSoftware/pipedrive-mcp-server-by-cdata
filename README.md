@@ -1,7 +1,7 @@
 # pipedrive-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Pipedrive
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Pipedrive](https://www.cdata.com/drivers/pipedrive/download/mcp/). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Pipedrive](https://www.cdata.com/drivers/pipedrive/download/mcp/). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Pipedrive supported by the [CData JDBC Driver for Pipedrive](https://www.cdata.com/drivers/pipedrive/jdbc/).
 
